@@ -1,2 +1,2 @@
 import bubbleSort from "./src/index.js";
-bubbleSort();
+console.log(bubbleSort([3, 2, 10, -2, 0]));
